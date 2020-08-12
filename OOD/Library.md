@@ -6,7 +6,10 @@ Library management systems also involve maintaining the database for entering ne
 
 ### 1. 明确要求
 
-![img]()
+<p align="center">
+  <img src="https://github.com/dabaitudiu/autumn_notes/blob/master/OOD/library.png" alt="drawing" width="700"/>
+</p>
+
 
 #### Possible Questions to Ask:
 
