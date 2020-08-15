@@ -8,6 +8,7 @@ preparations and notes
 [问题集](https://github.com/dabaitudiu/autumn_notes/blob/master/JVM/%E9%97%AE%E9%A2%98%E9%9B%86.md)
 
 #### 多线程
-[创建线程](https://github.com/dabaitudiu/autumn_notes/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/1.%E5%88%9B%E5%BB%BA%E7%BA%BF%E7%A8%8B.md)
-[启动线程](https://github.com/dabaitudiu/autumn_notes/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/2.%E5%90%AF%E5%8A%A8%E7%BA%BF%E7%A8%8B.md)
-[停止线程](https://github.com/dabaitudiu/autumn_notes/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/3.%E5%81%9C%E6%AD%A2%E7%BA%BF%E7%A8%8B.md)
+0. [Synchronized](https://github.com/dabaitudiu/autumn_notes/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/0.Synchronized.md)
+1. [创建线程](https://github.com/dabaitudiu/autumn_notes/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/1.%E5%88%9B%E5%BB%BA%E7%BA%BF%E7%A8%8B.md)
+2. [启动线程](https://github.com/dabaitudiu/autumn_notes/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/2.%E5%90%AF%E5%8A%A8%E7%BA%BF%E7%A8%8B.md)
+3. [停止线程](https://github.com/dabaitudiu/autumn_notes/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/3.%E5%81%9C%E6%AD%A2%E7%BA%BF%E7%A8%8B.md)
