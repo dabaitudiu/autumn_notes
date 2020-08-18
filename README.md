@@ -17,3 +17,4 @@ preparations and notes
 6. [线程属性与异常处理](https://github.com/dabaitudiu/autumn_notes/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/6.%E7%BA%BF%E7%A8%8B%E5%B1%9E%E6%80%A7%E4%B8%8E%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.md)
 7. [线程安全](https://github.com/dabaitudiu/autumn_notes/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/7.%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8.md)
 8. [Java内存模型](https://github.com/dabaitudiu/autumn_notes/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/8.JMM.md)
+9. [死锁](https://github.com/dabaitudiu/autumn_notes/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/9.%E6%AD%BB%E9%94%81.md)
