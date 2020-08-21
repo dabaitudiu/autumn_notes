@@ -23,3 +23,4 @@ preparations and notes
 12. [锁](https://github.com/dabaitudiu/autumn_notes/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/12.%20%E9%94%81.md)
 14. [CAS](https://github.com/dabaitudiu/autumn_notes/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/14.%20CAS.md)
 15. [Immutable](https://github.com/dabaitudiu/autumn_notes/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/15.%20Immutable.md)
+16. [并发容器](https://github.com/dabaitudiu/autumn_notes/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/16.%20%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8.md)
