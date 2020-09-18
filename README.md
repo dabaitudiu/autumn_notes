@@ -45,3 +45,4 @@ redo log， bin log这里网上来回抄，还一堆误导人的，稍微整了�
 ### 计算机网络
 - [经典问题：输入URL回车之后，究竟发生了什么](https://github.com/dabaitudiu/autumn_notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/network1.md)
 - [TCP三次握手，四次挥手](https://github.com/dabaitudiu/autumn_notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/network2.md)
+- [HTTP/HTTPS](https://github.com/dabaitudiu/autumn_notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/network3.md)
