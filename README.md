@@ -40,7 +40,7 @@ redo log， bin log这里网上来回抄，还一堆误导人的，稍微整了�
 - [我对redo log, bin log的总结](https://github.com/dabaitudiu/autumn_notes/blob/master/Database/rebin.md)
 
 ### Redis
-- [9. Redis Cluster](https://github.com/dabaitudiu/autumn_notes/blob/master/Database/Redis_Cluster.md)
+- [9. Redis Cluster](https://github.com/dabaitudiu/autumn_notes/blob/master/Redis/9.%20Redis_Cluster.md)
 
 ### 计算机网络
-- [综合整理](https://github.com/dabaitudiu/autumn_notes/blob/master/Database/network.md)
+- [综合整理](https://github.com/dabaitudiu/autumn_notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/network.md)
