@@ -3,10 +3,13 @@ preparations and notes
 
 ### 操作系统
 - [进程相关问题1](https://github.com/dabaitudiu/autumn_notes/blob/master/Operating%20System/7.%20%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B.md) &nbsp; &nbsp;[Source Video](https://www.bilibili.com/video/BV1js411b7vg?p=42)
-- [CPU 100%如何排查](https://blog.csdn.net/bntX2jSQfEHy7/article/details/86710336)
+- [基本概念](https://github.com/dabaitudiu/autumn_notes/blob/master/Operating%20System/2.%20%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
+- [进程、线程](https://github.com/dabaitudiu/autumn_notes/blob/master/Operating%20System/1.%20%E8%BF%9B%E7%A8%8B%E7%BA%BF%E7%A8%8B.md)
+- [CPU 100%如何排查](https://github.com/dabaitudiu/autumn_notes/blob/master/Operating%20System/cpu100.md)
 
 ### JVM
-[问题集](https://github.com/dabaitudiu/autumn_notes/blob/master/JVM/%E9%97%AE%E9%A2%98%E9%9B%86.md)
+- [问题集](https://github.com/dabaitudiu/autumn_notes/blob/master/JVM/%E9%97%AE%E9%A2%98%E9%9B%86.md)
+- [类加载过程](https://github.com/dabaitudiu/autumn_notes/blob/master/JVM/3.%20%E7%B1%BB%E5%8A%A0%E8%BD%BD%E3%80%81%E8%BF%9E%E6%8E%A5%E3%80%81%E5%88%9D%E5%A7%8B%E5%8C%96.md)
 
 ### 多线程
 0. [Synchronized](https://github.com/dabaitudiu/autumn_notes/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/0.Synchronized.md)
