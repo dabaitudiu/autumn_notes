@@ -2,7 +2,8 @@
 preparations and notes
 
 ### 操作系统
-[进程相关问题1](https://github.com/dabaitudiu/autumn_notes/blob/master/Operating%20System/7.%20%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B.md) &nbsp; &nbsp;[Source Video](https://www.bilibili.com/video/BV1js411b7vg?p=42)
+- [进程相关问题1](https://github.com/dabaitudiu/autumn_notes/blob/master/Operating%20System/7.%20%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B.md) &nbsp; &nbsp;[Source Video](https://www.bilibili.com/video/BV1js411b7vg?p=42)
+- [CPU 100%如何排查](https://blog.csdn.net/bntX2jSQfEHy7/article/details/86710336)
 
 ### JVM
 [问题集](https://github.com/dabaitudiu/autumn_notes/blob/master/JVM/%E9%97%AE%E9%A2%98%E9%9B%86.md)
@@ -38,6 +39,7 @@ preparations and notes
 - [详解二段提交](https://juejin.im/post/6844904079215312909)
 redo log， bin log这里网上来回抄，还一堆误导人的，稍微整了下：
 - [我对redo log, bin log的总结](https://github.com/dabaitudiu/autumn_notes/blob/master/Database/rebin.md)
+- [一条SQL语句执行得很慢的原因有哪些？](https://zhuanlan.zhihu.com/p/62941196)
 
 ### Redis
 - [9. Redis Cluster](https://github.com/dabaitudiu/autumn_notes/blob/master/Redis/9.%20Redis_Cluster.md)
@@ -46,3 +48,6 @@ redo log， bin log这里网上来回抄，还一堆误导人的，稍微整了�
 - [经典问题：输入URL回车之后，究竟发生了什么](https://github.com/dabaitudiu/autumn_notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/network1.md)
 - [TCP三次握手，四次挥手](https://github.com/dabaitudiu/autumn_notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/network2.md)
 - [HTTP/HTTPS](https://github.com/dabaitudiu/autumn_notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/network3.md)
+- [TCP的可靠性保证](https://github.com/dabaitudiu/autumn_notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/network4.md)
+- [网络协议分层]()
+- [Session、Cookie]()
