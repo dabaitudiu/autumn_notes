@@ -4,13 +4,14 @@ preparations and notes
 ### 操作系统
 
 - 必看内容：
-    1. (3.3-4.5) 连续&非连续内存分配、分页、分段
-    2. (5.1-5.5) 虚拟内存
-    3. (6.1-6.10) 页面置换算法
-    4. (7.1-7.14) 进程、线程
-    5. (8.1-8.6) 调度算法
-    6. (9.1-11.8) 进程同步方法、死锁、一些常见概念。嫌多可以看小土刀
-    7. [小土刀操作系统总结](https://wdxtub.com/interview/14520847747820.html) 主要看进程vs线程、死锁、进程同步方法、中断、上下文切换、虚存、进程调度即可。其他的不是重点。
+    - [操作系统_清华大学](https://www.bilibili.com/video/BV1js411b7vg?from=search&seid=6930146820902658098)
+    - (3.3-4.5) 连续&非连续内存分配、分页、分段
+    - (5.1-5.5) 虚拟内存
+    - (6.1-6.10) 页面置换算法
+    - (7.1-7.14) 进程、线程
+    - (8.1-8.6) 调度算法
+    - (9.1-11.8) 进程同步方法、死锁、一些常见概念。嫌多可以看小土刀
+    - [小土刀操作系统总结](https://wdxtub.com/interview/14520847747820.html) 主要看进程vs线程、死锁、进程同步方法、中断、上下文切换、虚存、进程调度即可。其他的不是重点。
 - 其他自用内容：
 - [进程相关问题1](https://github.com/dabaitudiu/autumn_notes/blob/master/Operating%20System/7.%20%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B.md) &nbsp; &nbsp;[Source Video](https://www.bilibili.com/video/BV1js411b7vg?p=42)
 - [基本概念](https://github.com/dabaitudiu/autumn_notes/blob/master/Operating%20System/2.%20%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
@@ -19,19 +20,19 @@ preparations and notes
 
 ### JVM
 - 必看内容：JVM结构、类加载过程、垃圾回收(重点) 
-    1. [JVM入门](https://coding.imooc.com/class/429.html) 看三~六章就够了，实践部分不用看，背理论即可。
-    2. [CMS详解1](https://juejin.im/post/6844903782107578382)
-    3. [CMS、G1详解](https://juejin.im/post/6844903922872614925)
-    4. 这一部分很重要，必须熟练掌握。JVM结构，双亲委派，类加载各个过程，垃圾收集过程和算法必须背熟
+    - [JVM入门](https://coding.imooc.com/class/429.html) 看三~六章就够了，实践部分不用看，背理论即可。
+    - [CMS详解1](https://juejin.im/post/6844903782107578382)
+    - [CMS、G1详解](https://juejin.im/post/6844903922872614925)
+    - 这一部分很重要，必须熟练掌握。JVM结构，双亲委派，类加载各个过程，垃圾收集过程和算法必须背熟
 - 自用：
 - [类加载过程](https://github.com/dabaitudiu/autumn_notes/blob/master/JVM/3.%20%E7%B1%BB%E5%8A%A0%E8%BD%BD%E3%80%81%E8%BF%9E%E6%8E%A5%E3%80%81%E5%88%9D%E5%A7%8B%E5%8C%96.md)
 
 ### 多线程
 - 多线程看悟空的这三门课，必看：[wukong](http://www.imooc.com/t/2854586)
-    1. 先看线程八大核心+Java并发底层原理精讲 前两章
-    2. 看免费课synchronized
-    3. 看JUC那门， 看到CAS
-    4. 这三门认真看完，所有多线程的问题全都秒
+    - 先看线程八大核心+Java并发底层原理精讲 前两章
+    - 看免费课synchronized
+    - 看JUC那门， 看到CAS
+    - 这三门认真看完，所有多线程的问题全都秒
 0. [Synchronized](https://github.com/dabaitudiu/autumn_notes/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/0.Synchronized.md)
 1. [创建线程](https://github.com/dabaitudiu/autumn_notes/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/1.%E5%88%9B%E5%BB%BA%E7%BA%BF%E7%A8%8B.md)
 2. [启动线程](https://github.com/dabaitudiu/autumn_notes/blob/master/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/2.%E5%90%AF%E5%8A%A8%E7%BA%BF%E7%A8%8B.md)
